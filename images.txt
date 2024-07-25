@@ -1,1 +1,2 @@
-docker.io/xuxueli/xxl-job-admin:2.4.1
+docker.io/redis:7.0.5
+docker.io/seataio/seata-server:1.6.1
