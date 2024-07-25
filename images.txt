@@ -1,1 +1,1 @@
-docker.io/apache/rocketmq:5.2.0
+docker.io/xuxueli/xxl-job-admin:2.4.1
